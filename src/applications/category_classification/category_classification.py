@@ -14,7 +14,7 @@ n_splits = 5
 SEED = 42
 
 embeddings_folder = "data/embeddings"
-dataset_selected = "UFRB"
+dataset_selected = "UFRJ"
 
 embeddings_paths = find_npy_files(embeddings_folder)
 

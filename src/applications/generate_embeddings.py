@@ -9,6 +9,7 @@ datasets = ["data/postprocessing/UFRB/data.json",
             "data/postprocessing/UNICAMP/data.json",
             "data/postprocessing/USP/data.json"]
 
+
 model_names = ["sentence-transformers/paraphrase-multilingual-mpnet-base-v2", 
                "sentence-transformers/clip-ViT-B-32-multilingual-v1", 
                "alfaneo/bertimbau-base-portuguese-sts",
